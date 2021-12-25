@@ -52,5 +52,5 @@
  
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kartikprabhu20.kartikprabhu20&color=00df00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kartikprabhu20.kartikprabhu20&color=00df00) 
 
