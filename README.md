@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
-}
-</style>
-</head>
-  
+
 ### Hallo, I'm Kartik Prabhu 👋
 
 - 🔭 A software developer at heart.
@@ -40,15 +31,26 @@ body {
 
 
 **Tools**
-<img title="IntelliJ" alt="IntelliJ" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/intellij.jpeg"/>|<img title="Pycharm" alt="Pycharm" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png"/>|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/jupyter.png"/>|<img title="Android Studio" alt="Android Studio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/AndroidStudio.png"/>|<img title="VSCode" alt="VSCode" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VSCode.jpeg"/>|<img title="VisualStudio" alt="VisualStudio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VisualStudio.jpeg"/>|<img title="Unity" alt="Unity" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/unity.png"/>|<img title="Blender" alt="Blender" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/blender.png"/>
-|--|--|--|--|--|--|--|--|
+<img title="IntelliJ" alt="IntelliJ" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/intellij.jpeg"/>|<img title="Pycharm" alt="Pycharm" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png"/>|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/jupyter.png"/>|<img title="Android Studio" alt="Android Studio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/AndroidStudio.png"/>|<img title="VSCode" alt="VSCode" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VSCode.jpeg"/>|<img title="VisualStudio" alt="VisualStudio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VisualStudio.jpeg"/>|<img title="Unity" alt="Unity" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/unity.png"/>|<img title="Xcode" alt="Xcode" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png"/>|<img title="Blender" alt="Blender" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/blender.png"/>
+|--|--|--|--|--|--|--|--|--|
 
 
 **Project Management**
-<img title="Github" alt="Github" width="40px" style="background-color:white" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/github.png" />|<img title="Gitlab" alt="Gitlab" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/gitlab.png"/>|<img title="Bitbucket" alt="Bitbucket" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/bitbucket.jpg"/>|<img title="Agile" alt="Agile" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/agile.png"/>|<img title="Confluence" alt="Confluence" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/confluence.png"/>
+<img title="Github" alt="Github" width="40px" style="background-color:white" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/github.jpeg" />|<img title="Gitlab" alt="Gitlab" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/gitlab.png"/>|<img title="Bitbucket" alt="Bitbucket" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/bitbucket.jpg"/>|<img title="Agile" alt="Agile" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/agile.png"/>|<img title="Confluence" alt="Confluence" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/confluence.png"/>
 |--|--|--|--|--|
+  
+  
+ **Let's Connect :handshake:**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=kartikprabhu20&theme=dark" />
+<a href="https://www.linkedin.com/in/kartikprabhu20/"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/linkedin.png"></a>|<a href="mailto:prabhukartik20@gmail.com"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/gmail.png"></a>|<a href="https://www.instagram.com/kartik_prabhu_/"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/instagram.png"></a>
+|--|--|--|
+  
+  
+ **Github Metrics**  
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=kartikprabhu20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20&layout=compact&theme=buefy&hide_border=true" />
+ 
+ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kartikprabhu20.kartikprabhu20&color=00df00)
 
