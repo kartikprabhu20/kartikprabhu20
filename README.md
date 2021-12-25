@@ -48,7 +48,9 @@
   
  **Github Metrics**  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kartikprabhu20" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20&layout=compact&theme=buefy&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20&layout=compact&theme=buefy&hide_border=true" /> -->
  
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
