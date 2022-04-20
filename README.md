@@ -2,7 +2,7 @@
 ### Hallo, I'm Kartik Prabhu 👋
 
 - 🔭 A software developer at heart.
-- 🌱 Passionate about Artificial Intelligence, Augmented reality, Virtual reality.
+- 🌱 Passionate about Mobile development, Artificial Intelligence, Augmented reality, Virtual reality.
 - 👯 I’m looking to collaborate on AR/VR applications.
 - 👨‍💻 Curious about new technologies and like to explore them.
 - 🤔 Firmly believe in adaptability.
