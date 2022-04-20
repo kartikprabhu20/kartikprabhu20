@@ -11,11 +11,20 @@
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png">
-|--|--|--|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png">|<img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png">
+|--|--|--|--|--|--|--|
 
 
 **Libraries and Frameworks**
+
+*Android*
+- Room
+- Dagger
+- RxJava
+- Firebase
+- JUnit, Mockito and Espresso
+- Picasso and Glide
+- Retrofit
 
 *Machine Learning*
 <img title="Tensorflow" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"/>|<img title="Pytorch" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>|<img title="Keras" alt="Keras" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png"/>|<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"/>|<img title="Pandas" alt="Pandas" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/pandas.png"/>|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/matplotlib.png"/>|<img title="SKLearn" alt="SKLearn" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/sklearn.png"/>
