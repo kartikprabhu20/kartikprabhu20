@@ -1,67 +1,89 @@
+# 👋 Hallo, I'm Kartik Prabhu  
 
-### Hallo, I'm Kartik Prabhu 👋
+🔭 A software developer at heart  
+🌱 Passionate about **Mobile development**, **Artificial Intelligence**, **Augmented Reality (AR)**, and **Virtual Reality (VR)**  
+🤖 I’m looking to collaborate on **AR/VR applications**  
+👨‍💻 Curious about new technologies and like to explore them  
+🤔 Firmly believe in adaptability  
+⚡ Fun fact: Die hard fan of **Marvel Studios** and **Anime**  
 
-- 🔭 A software developer at heart.
-- 🌱 Passionate about Mobile development, Artificial Intelligence, Augmented reality, Virtual reality.
-- 🤖 I’m looking to collaborate on AR/VR applications.
-- 👨‍💻 Curious about new technologies and like to explore them.
-- 🤔 Firmly believe in adaptability.
-- ⚡ Fun fact: Die hard fan of Marvel Studios and Anime. 
+---
 
+## 🖥️ Programming Languages  
 
-**Programming Languages**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"/>|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"/>|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"/>|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"/>|<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"/>
-|--|--|--|--|--|--|--|
+---
 
-**Libraries and Frameworks**
+## 📚 Libraries & Frameworks  
 
-*Android*
-- Room
-- Dagger
-- RxJava
-- Firebase
-- JUnit, Mockito and Espresso
-- Picasso and Glide
-- Retrofit
-- Compose
+### Android  
+`Room` · `Dagger` · `RxJava` · `Firebase` · `JUnit/Mockito/Espresso` · `Picasso/Glide` · `Retrofit` · `Jetpack Compose`
 
-*Machine Learning*
-<img title="Tensorflow" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"/>|<img title="Pytorch" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>|<img title="Keras" alt="Keras" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png"/>|<img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"/>|<img title="Pandas" alt="Pandas" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/pandas.png"/>|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/matplotlib.png"/>|<img title="SKLearn" alt="SKLearn" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/sklearn.png"/>
-|--|--|--|--|--|--|--|
+### Machine Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-*Augmented Reality*
-<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"/>|<img title="ARCore" alt="ARCore" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/arcore.png"/>|<img title="ARKit" alt="ARKit" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/arkit.jpeg"/>|<img title="ARFoundation" alt="ARfoundation" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/arfoundation.png"/>|<img title="Vuforia" alt="Vuforia" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/vuforia.png"/>
-|--|--|--|--|--|
+### Augmented Reality  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ARFoundation](https://img.shields.io/badge/ARFoundation-35495E?style=for-the-badge&logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-008000?style=for-the-badge&logo=vuforia&logoColor=white)
 
-*Others*
-<img title="Cuda" alt="Cuda" width="40px" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/master/topics/cuda/cuda.png"/>|<img title="Flask" alt="Flask" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/flask.png" />
-|--|--|
+### Others  
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
-**Tools**
-<img title="IntelliJ" alt="IntelliJ" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/intellij.jpeg"/>|<img title="Pycharm" alt="Pycharm" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png"/>|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/jupyter.png"/>|<img title="Android Studio" alt="Android Studio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/AndroidStudio.png"/>|<img title="VSCode" alt="VSCode" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VSCode.jpeg"/>|<img title="VisualStudio" alt="VisualStudio" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/VisualStudio.jpeg"/>|<img title="Unity" alt="Unity" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/unity.png"/>|<img title="Xcode" alt="Xcode" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png"/>|<img title="Blender" alt="Blender" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/blender.png"/>
-|--|--|--|--|--|--|--|--|--|
+## 🛠️ Tools  
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-**Project Management**
-<img title="Github" alt="Github" width="40px" style="background-color:white" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/github.jpeg" />|<img title="Gitlab" alt="Gitlab" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/gitlab.png"/>|<img title="Bitbucket" alt="Bitbucket" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/bitbucket.jpg"/>|<img title="Agile" alt="Agile" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/agile.png"/>|<img title="Confluence" alt="Confluence" width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/confluence.png"/>
-|--|--|--|--|--|
-  
-  
- **Let's Connect :handshake:**
+---
 
-<a href="https://www.linkedin.com/in/kartikprabhu20/"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/linkedin.png"></a>|<a href="mailto:prabhukartik20@gmail.com"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/gmail.png"></a>|<a href="https://www.instagram.com/kartik_prabhu_/"><img width="40px" src="https://github.com/kartikprabhu20/kartikprabhu20/blob/main/images/instagram.png"></a>
-|--|--|--|
-  
-  
- **Github Metrics**  
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=kartikprabhu20" />
+## 📂 Project Management  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20&layout=compact&theme=buefy&hide_border=true" /> -->
- 
- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kartikprabhu20.kartikprabhu20&color=00df00) 
+---
 
+## 🤝 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikprabhu20/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhukartik20@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartik_prabhu_/)
+
+---
+
+## 📊 GitHub Metrics  
+
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikprabhu20&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikprabhu20&layout=compact&theme=tokyonight)  
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kartikprabhu20.kartikprabhu20&color=00df00)  
+
+---
