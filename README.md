@@ -1,5 +1,5 @@
 <!-- Typing animation header -->
-# 👋 Hallo, I'm Kartik Prabhu
+# 👋 Hello, I'm Kartik Prabhu
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1E90FF&width=500&lines=Software+Developer;Mobile+%7C+AI+%7C+AR%2FVR+Enthusiast;Always+Learning+%26+Exploring+🚀)
 
